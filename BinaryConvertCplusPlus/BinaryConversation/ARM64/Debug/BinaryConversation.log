@@ -1,0 +1,4 @@
+﻿  BinaryConversation.cpp
+C:\Users\joker\Desktop\BinaryConvertCplusPlus\BinaryConversation\BinaryConversation.cpp(17,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\joker\Desktop\BinaryConvertCplusPlus\BinaryConversation\BinaryConversation.cpp(45,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BinaryConversation.vcxproj -> C:\Users\joker\Desktop\BinaryConvertCplusPlus\BinaryConversation\ARM64\Debug\BinaryConversation.exe

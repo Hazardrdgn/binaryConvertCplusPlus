@@ -1,0 +1,2 @@
+Number: 10
+Binary: 1010
